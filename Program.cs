@@ -11,7 +11,7 @@ namespace InheritanceDiner
       Console.WriteLine("Hello World!");
 
       Supervisor Porter = new Supervisor("Porter", "k24lk32");
-      Manager Mark = new Manager("Mark", "23kh4kj32", 1111);
+      Manager Mark = new Manager("Mark", "f23kh4kj32", 1111);
 
       List<Employee> Employees = new List<Employee>() {
           Porter,
